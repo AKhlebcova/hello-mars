@@ -1,0 +1,22 @@
+{
+  "name": "hello-mars-drive",
+  "version": "1.0.0",
+  "description": "let's get to mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKhlebcova/hello-mars.git"
+  },
+  "keywords": [
+    "mars"
+  ],
+  "author": "anna kh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKhlebcova/hello-mars/issues"
+  },
+  "homepage": "https://github.com/AKhlebcova/hello-mars#readme"
+}
